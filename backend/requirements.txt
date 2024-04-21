@@ -6,5 +6,29 @@ djangorestframework-simplejwt
 PyJWT
 pytz
 sqlparse
-psycopg2-binary
 python-dotenv
+Pillow
+
+
+# env controls
+python-decouple
+
+# third party modules
+markdown       
+django-filter  
+
+# linting and test packages
+flake8
+black
+faker
+pytest-django
+
+# production packages
+gunicorn
+
+# api docs
+drf-yasg
+
+# data base package
+psycopg
+psycopg-binary
